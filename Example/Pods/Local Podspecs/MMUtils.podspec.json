@@ -1,0 +1,22 @@
+{
+  "name": "MMUtils",
+  "version": "0.1.0",
+  "summary": "A short description of MMUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MaximusMcCann/MMUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MaximusMcCann": "mxmccann@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/MaximusMcCann/MMUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MMUtils/Classes/**/*"
+}

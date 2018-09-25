@@ -1,0 +1,16 @@
+PODS:
+  - MMUtils (0.1.0)
+
+DEPENDENCIES:
+  - MMUtils (from `../`)
+
+EXTERNAL SOURCES:
+  MMUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMUtils: ec5369d16aed67ec237e46dc14fc2c5e656fd26e
+
+PODFILE CHECKSUM: a98a4d1bf65535eb2ec1ea92b1b7dc8e1ae69f2e
+
+COCOAPODS: 1.5.3

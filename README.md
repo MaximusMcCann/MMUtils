@@ -22,7 +22,7 @@ pod 'MMUtils'
 
 ## Author
 
-MaximusMcCann, mxmccann@gmail.com
+MaximusMcCann
 
 ## License
 
