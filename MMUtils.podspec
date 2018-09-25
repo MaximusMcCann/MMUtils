@@ -16,7 +16,7 @@ iOS utilities for simpler development.  Mainly extension files built on top of U
 
   s.homepage         = 'https://github.com/MaximusMcCann/MMUtils'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'MaximusMcCann' => '' }
+  s.author           = { 'Maximus McCann' => '' }
   s.source           = { :git => 'https://github.com/MaximusMcCann/MMUtils.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
